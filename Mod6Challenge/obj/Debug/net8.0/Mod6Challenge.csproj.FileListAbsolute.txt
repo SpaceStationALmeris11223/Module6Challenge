@@ -1,0 +1,15 @@
+/workspaces/Module6Challenge/Mod6Challenge/obj/Debug/net8.0/Mod6Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Module6Challenge/Mod6Challenge/obj/Debug/net8.0/Mod6Challenge.AssemblyInfoInputs.cache
+/workspaces/Module6Challenge/Mod6Challenge/obj/Debug/net8.0/Mod6Challenge.AssemblyInfo.cs
+/workspaces/Module6Challenge/Mod6Challenge/obj/Debug/net8.0/Mod6Challenge.csproj.CoreCompileInputs.cache
+/workspaces/Module6Challenge/Mod6Challenge/obj/Debug/net8.0/Mod6Challenge.sourcelink.json
+/workspaces/Module6Challenge/Mod6Challenge/bin/Debug/net8.0/Mod6Challenge
+/workspaces/Module6Challenge/Mod6Challenge/bin/Debug/net8.0/Mod6Challenge.deps.json
+/workspaces/Module6Challenge/Mod6Challenge/bin/Debug/net8.0/Mod6Challenge.runtimeconfig.json
+/workspaces/Module6Challenge/Mod6Challenge/bin/Debug/net8.0/Mod6Challenge.dll
+/workspaces/Module6Challenge/Mod6Challenge/bin/Debug/net8.0/Mod6Challenge.pdb
+/workspaces/Module6Challenge/Mod6Challenge/obj/Debug/net8.0/Mod6Challenge.dll
+/workspaces/Module6Challenge/Mod6Challenge/obj/Debug/net8.0/refint/Mod6Challenge.dll
+/workspaces/Module6Challenge/Mod6Challenge/obj/Debug/net8.0/Mod6Challenge.pdb
+/workspaces/Module6Challenge/Mod6Challenge/obj/Debug/net8.0/Mod6Challenge.genruntimeconfig.cache
+/workspaces/Module6Challenge/Mod6Challenge/obj/Debug/net8.0/ref/Mod6Challenge.dll
